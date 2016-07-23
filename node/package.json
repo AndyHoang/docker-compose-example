@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "AndyHoang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "hiredis": "*",
+    "mocha": "*",
+    "redis": "*"
+
+  }
+
+}
